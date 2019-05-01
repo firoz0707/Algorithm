@@ -1,0 +1,14 @@
+
+
+######### Shell-sort ##################################
+
+Experienced programmers sometimes choose shellsort because it has acceptable
+running time even for moderately large arrays; it requires a small amount of code; and
+it uses no extra space.
+
+Q. Why so many sorting algorithms?
+A. One reason is that the performance of many algorithms depends on the input val-
+ues, so different algorithms might be appropriate for different applications having dif-
+ferent kinds of input. For example, insertion sort is the method of choice for partially
+sorted or tiny arrays. Other constraints, such as space and treatment of equal keys, also
+come into play.
